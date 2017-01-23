@@ -16,6 +16,6 @@
         }
     },
     "require": {
-        "codeception/base": "*"
+        "codeception/codeception": "*"
     }
 }
