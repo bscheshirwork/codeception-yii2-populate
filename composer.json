@@ -1,0 +1,21 @@
+{
+    "name":"bscheshirwork/codeception-yii2-populate",
+    "description":"This module restore the dump before each test for your yii2 acceptance test",
+    "keywords":["Codeception", "dump", "Yii2", "acceptance testing"],
+    "type":"library",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"BSCheshir",
+            "email":"bscheshirwork@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "bscheshirwork\\Codeception\\Module\\": "\\"
+        }
+    },
+    "require": {
+        "codeception/base": "*"
+    }
+}
